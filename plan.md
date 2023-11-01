@@ -1,11 +1,11 @@
 # Plan
 
-* PROJECT TITLE
-* YOUR NAME
-* STUDENT ID
-* SUPERVISOR NAME
+* Age estimation from faces
+* Andrei-Lucian Radulescu
+* 2577007R
+* Dr. Tanaya Guha
 
-Week-by-week plan for the whole project. Update this as you go along.
+Week-by-week plan for the whole project.
 
 ## Winter semester
 
