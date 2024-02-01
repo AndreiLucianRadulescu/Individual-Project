@@ -2,3 +2,5 @@
 *.jpeg
 *.pkl
 *.json
+*.rar
+src/datasets
