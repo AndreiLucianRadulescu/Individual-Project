@@ -6,3 +6,6 @@
 src/datasets
 *.pdf
 *.txt
+*.pth
+*.png
+*.npy
