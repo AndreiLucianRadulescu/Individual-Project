@@ -35,4 +35,4 @@ To build our code just run *pip install requirements.txt*, and then run the note
 In order to verify that our code worked correctly you can visualise the notebook outputs, as all outputs have been saved. If you want to run the notebooks yourself, please refer to the above section.
 
 ### Contact
-If you have any trouble running the code, please contact me at 2577007r@student.gla.ac.uk
+If you have any trouble running the code, please contact me at 2577007r@student.gla.ac.uk. Also, you can access the project at https://github.com/AndreiLucianRadulescu/Individual-Project.
