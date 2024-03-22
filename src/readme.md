@@ -21,7 +21,7 @@ Furthermore, it is important to note that you need the datasets. The datasets sh
 
 
 * Python 3.10.11
-* Packages: listed in `requirements.txt` 
+* Packages: listed in `src/requirements.txt` 
 * To use our face detector, you have to install CMake.
 
 * Tested on Windows 11, and Google Colab
